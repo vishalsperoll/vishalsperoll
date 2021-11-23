@@ -1,133 +1,52 @@
+Video-
+
 { 
-   "id":"982-26a678f469e4d38-741",
-   "tmax":283,
-   "cur":[ 
-      "USD"
-   ],
-   "device":{ 
-      "dnt":0,
-      "geo":{ 
-         "country":"USA",
-         "type":2,
-         "lat":39.2151,
-         "lon":-76.754,
-         "region":"MD",
-         "city":"Elkridge",
-         "zip":"21075"
-      },
-      "connectiontype":3,
-      "model":"SM-G973U",
-      "make":"Samsung",
-      "carrier":"Sprint PCS",
-      "os":"android",
-      "osv":"8.1.0",
-      "js":1,
-      "ua":"Mozilla/5.0 (Linux; Android 8.1.0; SM-G973U Build/PPR1.180610.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/70.0.3538.80 Mobile Safari/537.36",
-      "ip":"99.203.80.209",
-      "devicetype":4,
-      "ifa":"ef6e3209-c0e7-4446-a10b-583441a52844"
-   },
-   "ext":{ 
-
-   },
-   "app":{ 
-      "bundle":"com.bstech.reader.pdf.viewer",
-      "storeurl":"https://play.google.com/store/apps/details?id=com.bstech.reader.pdf.viewer",
-      "cat":[ 
-         "IAB1",
-         "IAB3",
-         "IAB19",
-         "IAB2",
-         "IAB9-30",
-         "IAB9",
-         "IAB1-6",
-         "IAB9-23",
-         "IAB25",
-         "IAB5",
-         "IAB5-8",
-         "IAB15",
-         "IAB9-5",
-         "IAB15-10",
-         "IAB12",
-         "IAB14",
-         "IAB19-23",
-         "IAB19-17",
-         "IAB3-4",
-         "IAB1-1",
-         "IAB13-3",
-         "IAB13",
-         "IAB7",
-         "IAB7-44",
-         "IAB17-30",
-         "IAB17",
-         "IAB10",
-         "IAB1-5",
-         "IAB1-7",
-         "IAB18",
-         "IAB20",
-         "IAB22",
-         "IAB8",
-         "IAB6",
-         "IAB23-7",
-         "IAB23",
-         "IAB19-18",
-         "IAB17-42",
-         "IAB19-28",
-         "IAB7-32",
-         "IAB19-29",
-         "IAB10-6"
-      ],
-      "sectioncat":[ 
-
-      ],
-      "publisher":{ 
-         "id":"7aaebfe6c2d15eb79fc5f4dab4f875ee"
-      },
-      "id":"f4dab4f875ee",
-      "name":"PDF reader"
-   },
-   "at":2,
-   "imp":[ 
+   "id":"7357b42b-a7fc-48aa-98bc-39a1baf2fd9c",
+   "bidid":"76fd96e67525bcfbe7ffe930e78079a1",
+   "cur":"USD",
+   "seatbid":[ 
       { 
-         "id":"1832",
-         "instl":0,
-         "secure":1,
-         "bidfloorcur":"USD",
-         "tagid":"5db5b8912d00c8e04aeffa31",
-         "video":{ 
-            "minduration":0,
-            "maxduration":80,
-            "boxingallowed":1,
-            "w":768,
-            "h":1024,
-            "mimes":[ 
-               "video/x-flv",
-               "video/webm",
-               "video/3gpp",
-               "application/javascript",
-               "video/mp4"
-            ],
-            "protocols":[ 
-               2,
-               3,
-               5,
-               6
-            ],
-            "linearity":1,
-            "api":[ 
-               2
-            ],
-            "maxbitrate":800,
-            "minbitrate":400,
-            "playbackmethod":[ 
-               1,
-               2
-            ]
-         },
-         "bidfloor":3.186
+         "bid":[ 
+            { 
+               "id":"82f64da5385c8a9fc4fb66571a1b9d2d",
+               "impid":"1",
+               "price":4.48716,
+               "nurl":"http://ns7.advenuedsp.com/?v=nurl&fp=${AUCTION_PRICE}&tt=vid&hp=486d3b4f901f31f60d212959eebcf7d0",
+               "adm":"<VAST version=\"2.0\"><Ad id=\"PP\"><Wrapper><AdSystem>Pulsepoint video</AdSystem><VASTAdTagURI>PulsePoint_VideoOutstream and Instream_OTC_RX_Conquesting_Crossplatform_US_DFA</VASTAdTagURI><Impression><![CDATA[http://ns7.advenuedsp.com/?v=impr&sp=${AUCTION_PRICE}&dp=250_50a9fbc35a16a65ba1408ed689ec3655&tt=vid&hp=486d3b4f901f31f60d212959eebcf7d0]]></Impression><Impression><![CDATA[http://tracker14.naturalbid.com/?action=impressionvideo&auction=5.6763&uniq=3006e8a6687cd95eae0]]></Impression><Error><![CDATA[http://lga-bh.contextweb.com/bh/vet?bf=-EiyC7zUu4E%3D&di=kqMbvjRI0s0%3D&dcc=0.000&dl=HCL9yR1R4ZU%3D&nid=Bsbhl5vtHlY%3D&advid=Zcequs9QYeo%3D&dm=itunes.apple.com&crpc=G7wbuWRrfME%3D&bp=K5BqUHVOiWU%3D&dt=0EYdXevGxh0%3D&rcpc=-EiyC7zUu4E%3D&vgd=be96c8ab-70c8-49fc-aef9-71f6499403a9&vend=openRtb&drc=-EiyC7zUu4E%3D&mpcrs=1&rcpa=-EiyC7zUu4E%3D&ddgpr=kqMbvjRI0s0%3D&wp=K5BqUHVOiWU%3D&rcpm=K5BqUHVOiWU%3D&key=W17BxzefBe92j--bDaJCndY8ftvN9nP9&cc=4ID7keQtzVQ%3D&lpd=leadforrareobesity.com&st=W9zyHMKbY5w%3D&svc=Nnm8om4SgFw%3D&ad=820334&e=[ERRORCODE]&campid=joudL2kEYng%3D&ifa=BE96C8AB-70C8-49FC-AEF9-71F6499403A9&ci=false&h=5daacbbc47c9d574f9060104c993877499b7280d&i=s6hiE0k39vhX&epid=eHvdEd1S7a3HFzjvPtd9&liid=kqMbvjRI0s0%3D&dlr=kqMbvjRI0s0%3D&cp=-EiyC7zUu4E%3D&p=561979&ct=685051&rd=http%3A%2F%2Flga-bh.contextweb.com%2Fbh%2Fvet%3Fbf%3DkqMbvjRI0s0%253D%26di%3DkqMbvjRI0s0%253D%26dcc%3D2.50000%26dl%3DHCL9yR1R4ZU%253D%26nid%3DBsbhl5vtHlY%253D%26advid%3D5hkNAXdIPEo%253D%26dm%3Ditunes.apple.com%26crpc%3DkqMbvjRI0s0%253D%26bp%3DK5BqUHVOiWU%253D%26dt%3D0EYdXevGxh0%253D%26rcpc%3D-EiyC7zUu4E%253D%26vgd%3Dbe96c8ab-70c8-49fc-aef9-71f6499403a9%26vend%3DopenRtb%26drc%3D4Fzo9nYvv5s%253D%26mpcrs%3D2%26rcpa%3D-EiyC7zUu4E%253D%26ddgpr%3DCcgZT4u0OH4%253D%26wp%3D-EiyC7zUu4E%253D%26rcpm%3DkqMbvjRI0s0%253D%26key%3DI96CqyKL61myqbTNYuD2gROP5_PYRaz0%26app%3DIrq3y8mpA0A%253D%26cc%3DZG76QdPuKCs%253D%26lpd%3Dleadforrareobesity.com%26st%3DW9zyHMKbY5w%253D%26svc%3Ds1va_DJ-gzg%253D%26ad%3D82903%26e%3D%5BERRORCODE%5D%26campid%3DDiQFUxw6vBo%253D%26ifa%3DBE96C8AB-70C8-49FC-AEF9-71F6499403A9%26ci%3Dfalse%26h%3D85667ba7d802cbd6291538e780f136e48929b5b0%26i%3DQyakkrePctjc%26epid%3D561979%26liid%3DUjzLAVvuWyk%253D%26dlr%3DkqMbvjRI0s0%253D%26cp%3D-EiyC7zUu4E%253D%26p%3D561937%26ct%3D677224%26ebp%3DK5BqUHVOiWU%253D%26srv%3Du_xXPas8vpD6KtARgH1EqL1Tie-LXQF_Rg95zTDZI5I%253D%26bdgpt%3DFVavNBoPZhrrg3P3IuyXjR975qeOcPVlTWGG0d2x_hfDN0AdPqDvtMD_yeh16Zw5WBZgz8o4lN9e3mODkO_PpN5qbTKUKJFd%26ts%3D78RQGEpEPOKddqxDSVbQDg%253D%253D%26dc%3D1&ebp=K5BqUHVOiWU%3D&srv=PZU2HZCDj6leoC4kg3MWXD1l9TTyuKwlu-e7sUhMOn692wcNXeWr7g%3D%3D&ts=78RQGEpEPOJq1UfLjpYz2Q%3D%3D&dc=1]]></Error><Impression><![CDATA[https://lga-tr.contextweb.com/bh/it?bf=-EiyC7zUu4E%3D&di=kqMbvjRI0s0%3D&dcc=0.000&dl=18m_GbkblfA%3D&nid=Bsbhl5vtHlY%3D&advid=Zcequs9QYeo%3D&dm=itunes.apple.com&crpc=G7wbuWRrfME%3D&bp=K5BqUHVOiWU%3D&dt=0EYdXevGxh0%3D&rcpc=-EiyC7zUu4E%3D&vgd=be96c8ab-70c8-49fc-aef9-71f6499403a9&vend=openRtb&drc=-EiyC7zUu4E%3D&mpcrs=1&rcpa=-EiyC7zUu4E%3D&ddgpr=kqMbvjRI0s0%3D&wp=K5BqUHVOiWU%3D&rcpm=K5BqUHVOiWU%3D&key=W17BxzefBe92j--bDaJCndY8ftvN9nP9&cc=4ID7keQtzVQ%3D&st=W9zyHMKbY5w%3D&svc=Nnm8om4SgFw%3D&ad=820334&campid=joudL2kEYng%3D&ifa=BE96C8AB-70C8-49FC-AEF9-71F6499403A9&ci=true&h=650cc10cc6391895394d969ac53bc204bd723874&i=s6hiE0k39vhX&epid=eHvdEd1S7a3HFzjvPtd9&liid=kqMbvjRI0s0%3D&dlr=3dgarZR96dk%3D&cp=-EiyC7zUu4E%3D&p=561979&ct=685051&ebp=K5BqUHVOiWU%3D&srv=PZU2HZCDj6leoC4kg3MWXD1l9TTyuKwlu-e7sUhMOn692wcNXeWr7g%3D%3D&ts=78RQGEpEPOKhFvL0owuFMQ%3D%3D&ewp=7.41873&dc=1]]></Impression><Impression><![CDATA[https://lga-tr.contextweb.com/bh/it?bf=kqMbvjRI0s0%3D&di=kqMbvjRI0s0%3D&dcc=2.50000&dl=18m_GbkblfA%3D&nid=Bsbhl5vtHlY%3D&advid=5hkNAXdIPEo%3D&dm=itunes.apple.com&crpc=kqMbvjRI0s0%3D&bp=K5BqUHVOiWU%3D&dt=0EYdXevGxh0%3D&rcpc=-EiyC7zUu4E%3D&vgd=be96c8ab-70c8-49fc-aef9-71f6499403a9&vend=openRtb&drc=4Fzo9nYvv5s%3D&mpcrs=2&rcpa=-EiyC7zUu4E%3D&ddgpr=CcgZT4u0OH4%3D&wp=-EiyC7zUu4E%3D&rcpm=kqMbvjRI0s0%3D&key=I96CqyKL61myqbTNYuD2gROP5_PYRaz0&app=Irq3y8mpA0A%3D&cc=ZG76QdPuKCs%3D&st=W9zyHMKbY5w%3D&svc=s1va_DJ-gzg%3D&ad=82903&campid=DiQFUxw6vBo%3D&ifa=BE96C8AB-70C8-49FC-AEF9-71F6499403A9&ci=true&h=3fc91a21134798fed2e1708421c761206d370ac3&i=QyakkrePctjc&epid=561979&liid=UjzLAVvuWyk%3D&dlr=3dgarZR96dk%3D&cp=-EiyC7zUu4E%3D&p=561937&ct=677224&ebp=K5BqUHVOiWU%3D&srv=u_xXPas8vpD6KtARgH1EqL1Tie-LXQF_Rg95zTDZI5I%3D&bdgpt=FVavNBoPZhrrg3P3IuyXjR975qeOcPVlTWGG0d2x_hfDN0AdPqDvtMD_yeh16Zw5WBZgz8o4lN9e3mODkO_PpN5qbTKUKJFd&ts=78RQGEpEPOK_8ddEakid-Q%3D%3D&ewp=7.41873&dc=1]]></Impression><Impression><![CDATA[https://thrtle.com/insync?vxii_pid=10015&vxii_pdid=BE96C8AB-70C8-49FC-AEF9-71F6499403A9]]></Impression><Impression><![CDATA[https://p.adsymptotic.com/d/px/?_pid=16114&_psign=3db7b29efbfb28d2f0e0af76d53e6dff&_ifa=BE96C8AB-70C8-49FC-AEF9-71F6499403A9&_androidifa=BE96C8AB-70C8-49FC-AEF9-71F6499403A9&_rand=FQLp8]]></Impression><Impression><![CDATA[https://p.adsymptotic.com/d/px/?_pid=16114&_psign=3db7b29efbfb28d2f0e0af76d53e6dff&_ifa=BE96C8AB-70C8-49FC-AEF9-71F6499403A9&_androidifa=BE96C8AB-70C8-49FC-AEF9-71F6499403A9&_rand=V3WV0]]></Impression><Impression><![CDATA[http://cm.g.doubleclick.net/pixel?google_nid=contextweb&google_cm&google_sc]]></Impression><Impression><![CDATA[http://match.prod.bidr.io/cookie-sync/pp]]></Impression><Impression><![CDATA[http://pixel-sync.sitescout.com/dmp/pixelSync?nid=95]]></Impression><Impression><![CDATA[http://sync.1rx.io/usersync2/pulse]]></Impression><Creatives><Creative><Linear><TrackingEvents><Tracking event=\"complete\"><![CDATA[http://bh.contextweb.com/bh/vt?revdata=&exphrs=0&dealid=0&cmpid=613770&sz=26&advid=561938&i=s6hiE0k39vhX&pid=561979&t=685051&ccid=840076&mpcrs=1&pubdom=itunes.apple.com&adgid=820334&kdt=AA_30001.AA_30102.AA_30300.AA_30600.AA_30803.AA_30206.AA_30902.AA_547222252.AA_400026901.AAX_400027001.AA_400048102.AA_CID%3D10235.PPCXH_C19_15.AA_CID%3D10175.AA_1003794039.AA_400027001.PPCXH_C19_874_15.AAX_400048101.AA_CID%3D10105.AA_10786.AA_1823.AA_1957.AAX_400026901.AA_1826&acttr=O]]></Tracking><Tracking event=\"thirdQuartile\"><![CDATA[http://bh.contextweb.com/bh/vt?revdata=&exphrs=0&dealid=0&cmpid=613770&sz=26&advid=561938&i=s6hiE0k39vhX&pid=561979&t=685051&ccid=840076&mpcrs=1&pubdom=itunes.apple.com&adgid=820334&kdt=AA_30001.AA_30102.AA_30300.AA_30600.AA_30803.AA_30206.AA_30902.AA_547222252.AA_400026901.AAX_400027001.AA_400048102.AA_CID%3D10235.PPCXH_C19_15.AA_CID%3D10175.AA_1003794039.AA_400027001.PPCXH_C19_874_15.AAX_400048101.AA_CID%3D10105.AA_10786.AA_1823.AA_1957.AAX_400026901.AA_1826&acttr=T]]></Tracking><Tracking event=\"midpoint\"><![CDATA[http://bh.contextweb.com/bh/vt?revdata=&exphrs=0&dealid=0&cmpid=613770&sz=26&advid=561938&i=s6hiE0k39vhX&pid=561979&t=685051&ccid=840076&mpcrs=1&pubdom=itunes.apple.com&adgid=820334&kdt=AA_30001.AA_30102.AA_30300.AA_30600.AA_30803.AA_30206.AA_30902.AA_547222252.AA_400026901.AAX_400027001.AA_400048102.AA_CID%3D10235.PPCXH_C19_15.AA_CID%3D10175.AA_1003794039.AA_400027001.PPCXH_C19_874_15.AAX_400048101.AA_CID%3D10105.AA_10786.AA_1823.AA_1957.AAX_400026901.AA_1826&acttr=M]]></Tracking><Tracking event=\"firstQuartile\"><![CDATA[http://bh.contextweb.com/bh/vt?revdata=&exphrs=0&dealid=0&cmpid=613770&sz=26&advid=561938&i=s6hiE0k39vhX&pid=561979&t=685051&ccid=840076&mpcrs=1&pubdom=itunes.apple.com&adgid=820334&kdt=AA_30001.AA_30102.AA_30300.AA_30600.AA_30803.AA_30206.AA_30902.AA_547222252.AA_400026901.AAX_400027001.AA_400048102.AA_CID%3D10235.PPCXH_C19_15.AA_CID%3D10175.AA_1003794039.AA_400027001.PPCXH_C19_874_15.AAX_400048101.AA_CID%3D10105.AA_10786.AA_1823.AA_1957.AAX_400026901.AA_1826&acttr=F]]></Tracking><Tracking event=\"start\"><![CDATA[http://bh.contextweb.com/bh/vt?revdata=&exphrs=0&dealid=0&cmpid=613770&sz=26&advid=561938&i=s6hiE0k39vhX&pid=561979&t=685051&ccid=840076&mpcrs=1&pubdom=itunes.apple.com&adgid=820334&kdt=AA_30001.AA_30102.AA_30300.AA_30600.AA_30803.AA_30206.AA_30902.AA_547222252.AA_400026901.AAX_400027001.AA_400048102.AA_CID%3D10235.PPCXH_C19_15.AA_CID%3D10175.AA_1003794039.AA_400027001.PPCXH_C19_874_15.AAX_400048101.AA_CID%3D10105.AA_10786.AA_1823.AA_1957.AAX_400026901.AA_1826&acttr=S]]></Tracking><Tracking event=\"complete\"><![CDATA[http://bh.contextweb.com/bh/vt?revdata=&exphrs=0&dealid=0&cmpid=11212&sz=26&advid=5657&i=QyakkrePctjc&pid=561937&t=677224&ccid=460022&mpcrs=2&pubdom=itunes.apple.com&adgid=82903&kdt=AA_30001.AA_30102.AA_30300.AA_30600.AA_30803.AA_30206.AA_30902.AA_547222252.AA_400026901.AAX_400027001.AA_400048102.AA_CID%3D10235.PPCXH_C19_15.AA_CID%3D10175.AA_1003794039.AA_400027001.PPCXH_C19_874_15.AAX_400048101.AA_CID%3D10105.AA_10786.AA_1823.AA_1957.AAX_400026901.AA_1826&acttr=O]]></Tracking><Tracking event=\"thirdQuartile\"><![CDATA[http://bh.contextweb.com/bh/vt?revdata=&exphrs=0&dealid=0&cmpid=11212&sz=26&advid=5657&i=QyakkrePctjc&pid=561937&t=677224&ccid=460022&mpcrs=2&pubdom=itunes.apple.com&adgid=82903&kdt=AA_30001.AA_30102.AA_30300.AA_30600.AA_30803.AA_30206.AA_30902.AA_547222252.AA_400026901.AAX_400027001.AA_400048102.AA_CID%3D10235.PPCXH_C19_15.AA_CID%3D10175.AA_1003794039.AA_400027001.PPCXH_C19_874_15.AAX_400048101.AA_CID%3D10105.AA_10786.AA_1823.AA_1957.AAX_400026901.AA_1826&acttr=T]]></Tracking><Tracking event=\"midpoint\"><![CDATA[http://bh.contextweb.com/bh/vt?revdata=&exphrs=0&dealid=0&cmpid=11212&sz=26&advid=5657&i=QyakkrePctjc&pid=561937&t=677224&ccid=460022&mpcrs=2&pubdom=itunes.apple.com&adgid=82903&kdt=AA_30001.AA_30102.AA_30300.AA_30600.AA_30803.AA_30206.AA_30902.AA_547222252.AA_400026901.AAX_400027001.AA_400048102.AA_CID%3D10235.PPCXH_C19_15.AA_CID%3D10175.AA_1003794039.AA_400027001.PPCXH_C19_874_15.AAX_400048101.AA_CID%3D10105.AA_10786.AA_1823.AA_1957.AAX_400026901.AA_1826&acttr=M]]></Tracking><Tracking event=\"firstQuartile\"><![CDATA[http://bh.contextweb.com/bh/vt?revdata=&exphrs=0&dealid=0&cmpid=11212&sz=26&advid=5657&i=QyakkrePctjc&pid=561937&t=677224&ccid=460022&mpcrs=2&pubdom=itunes.apple.com&adgid=82903&kdt=AA_30001.AA_30102.AA_30300.AA_30600.AA_30803.AA_30206.AA_30902.AA_547222252.AA_400026901.AAX_400027001.AA_400048102.AA_CID%3D10235.PPCXH_C19_15.AA_CID%3D10175.AA_1003794039.AA_400027001.PPCXH_C19_874_15.AAX_400048101.AA_CID%3D10105.AA_10786.AA_1823.AA_1957.AAX_400026901.AA_1826&acttr=F]]></Tracking><Tracking event=\"start\"><![CDATA[http://bh.contextweb.com/bh/vt?revdata=&exphrs=0&dealid=0&cmpid=11212&sz=26&advid=5657&i=QyakkrePctjc&pid=561937&t=677224&ccid=460022&mpcrs=2&pubdom=itunes.apple.com&adgid=82903&kdt=AA_30001.AA_30102.AA_30300.AA_30600.AA_30803.AA_30206.AA_30902.AA_547222252.AA_400026901.AAX_400027001.AA_400048102.AA_CID%3D10235.PPCXH_C19_15.AA_CID%3D10175.AA_1003794039.AA_400027001.PPCXH_C19_874_15.AAX_400048101.AA_CID%3D10105.AA_10786.AA_1823.AA_1957.AAX_400026901.AA_1826&acttr=S]]></Tracking><Tracking event=\"start\"><![CDATA[https://lga-tr.contextweb.com/bh/it?bf=kqMbvjRI0s0%3D&di=kqMbvjRI0s0%3D&dcc=2.50000&dl=18m_GbkblfA%3D&nid=Bsbhl5vtHlY%3D&advid=5hkNAXdIPEo%3D&dm=itunes.apple.com&crpc=kqMbvjRI0s0%3D&bp=K5BqUHVOiWU%3D&dt=0EYdXevGxh0%3D&rcpc=-EiyC7zUu4E%3D&vgd=be96c8ab-70c8-49fc-aef9-71f6499403a9&vend=openRtb&drc=4Fzo9nYvv5s%3D&mpcrs=2&rcpa=-EiyC7zUu4E%3D&ddgpr=CcgZT4u0OH4%3D&wp=-EiyC7zUu4E%3D&rcpm=kqMbvjRI0s0%3D&key=I96CqyKL61myqbTNYuD2gROP5_PYRaz0&app=Irq3y8mpA0A%3D&cc=ZG76QdPuKCs%3D&st=W9zyHMKbY5w%3D&svc=s1va_DJ-gzg%3D&ad=82903&campid=DiQFUxw6vBo%3D&ifa=BE96C8AB-70C8-49FC-AEF9-71F6499403A9&ci=true&h=3fc91a21134798fed2e1708421c761206d370ac3&i=QyakkrePctjc&epid=561979&liid=UjzLAVvuWyk%3D&dlr=3dgarZR96dk%3D&cp=-EiyC7zUu4E%3D&p=561937&ct=677224&ebp=K5BqUHVOiWU%3D&srv=u_xXPas8vpD6KtARgH1EqL1Tie-LXQF_Rg95zTDZI5I%3D&bdgpt=FVavNBoPZhrrg3P3IuyXjR975qeOcPVlTWGG0d2x_hfDN0AdPqDvtMD_yeh16Zw5WBZgz8o4lN9e3mODkO_PpN5qbTKUKJFd&ts=78RQGEpEPOK_8ddEakid-Q%3D%3D&ewp=7.41873&dc=1]]></Tracking><Tracking event=\"start\"><![CDATA[https://lga-tr.contextweb.com/bh/it?bf=-EiyC7zUu4E%3D&di=kqMbvjRI0s0%3D&dcc=0.000&dl=18m_GbkblfA%3D&nid=Bsbhl5vtHlY%3D&advid=Zcequs9QYeo%3D&dm=itunes.apple.com&crpc=G7wbuWRrfME%3D&bp=K5BqUHVOiWU%3D&dt=0EYdXevGxh0%3D&rcpc=-EiyC7zUu4E%3D&vgd=be96c8ab-70c8-49fc-aef9-71f6499403a9&vend=openRtb&drc=-EiyC7zUu4E%3D&mpcrs=1&rcpa=-EiyC7zUu4E%3D&ddgpr=kqMbvjRI0s0%3D&wp=K5BqUHVOiWU%3D&rcpm=K5BqUHVOiWU%3D&key=W17BxzefBe92j--bDaJCndY8ftvN9nP9&cc=4ID7keQtzVQ%3D&st=W9zyHMKbY5w%3D&svc=Nnm8om4SgFw%3D&ad=820334&campid=joudL2kEYng%3D&ifa=BE96C8AB-70C8-49FC-AEF9-71F6499403A9&ci=true&h=650cc10cc6391895394d969ac53bc204bd723874&i=s6hiE0k39vhX&epid=eHvdEd1S7a3HFzjvPtd9&liid=kqMbvjRI0s0%3D&dlr=3dgarZR96dk%3D&cp=-EiyC7zUu4E%3D&p=561979&ct=685051&ebp=K5BqUHVOiWU%3D&srv=PZU2HZCDj6leoC4kg3MWXD1l9TTyuKwlu-e7sUhMOn692wcNXeWr7g%3D%3D&ts=78RQGEpEPOKhFvL0owuFMQ%3D%3D&ewp=7.41873&dc=1]]></Tracking></TrackingEvents><VideoClicks><ClickTracking><![CDATA[https://lga-tr.contextweb.com/bh/ct2?i=QyakkrePctjc~a=30171c262b0a872f0a8746b794e6ac51daff3979~agi=82903~es=2~u=https%3A%2F%2Fwww.leadforrareobesity.com</ClickTracking><ClickTracking><![CDATA[http://bh.contextweb.com/bh/vt?revdata=&exphrs=0&dealid=0&cmpid=11212&sz=26&advid=5657&i=QyakkrePctjc&pid=561937&t=677224&ccid=460022&mpcrs=2&pubdom=itunes.apple.com&adgid=82903&kdt=AA_30001.AA_30102.AA_30300.AA_30600.AA_30803.AA_30206.AA_30902.AA_547222252.AA_400026901.AAX_400027001.AA_400048102.AA_CID%3D10235.PPCXH_C19_15.AA_CID%3D10175.AA_1003794039.AA_400027001.PPCXH_C19_874_15.AAX_400048101.AA_CID%3D10105.AA_10786.AA_1823.AA_1957.AAX_400026901.AA_1826&acttr=C]]></ClickTracking><ClickTracking><![CDATA[http://bh.contextweb.com/bh/vt?revdata=&exphrs=0&dealid=0&cmpid=613770&sz=26&advid=561938&i=s6hiE0k39vhX&pid=561979&t=685051&ccid=840076&mpcrs=1&pubdom=itunes.apple.com&adgid=820334&kdt=AA_30001.AA_30102.AA_30300.AA_30600.AA_30803.AA_30206.AA_30902.AA_547222252.AA_400026901.AAX_400027001.AA_400048102.AA_CID%3D10235.PPCXH_C19_15.AA_CID%3D10175.AA_1003794039.AA_400027001.PPCXH_C19_874_15.AAX_400048101.AA_CID%3D10105.AA_10786.AA_1823.AA_1957.AAX_400026901.AA_1826&acttr=C]]></ClickTracking></VideoClicks></Linear></Creative></Creatives></Wrapper></Ad></VAST>",
+               "adomain":[ 
+                  "leadforrareobesity.com"
+               ],
+               "cat":[ 
+                  "IAB7-9"
+               ],
+               "adid":"580d0e8ff828",
+               "cid":"250_a04768aaef0d29af3e6408193c9e966480fd875757794320",
+               "crid":"250_f6b1f04efe3bd60108cb468bace1533a647372b72c26a943d373272387e522ebf21fabc0e1672deb"
+            }
+         ],
+         "seat":"25"
       }
-   ],
-   "user":{ 
-      "id":"af1bc645cd35c031632c3193e1e4c7a1a9d7dc7ef7f5f30b6c4eaec5f82a6b40"
-   }
+   ]
+}
+
+Banner-
+
+{
+  "seatbid":[{
+    "seat": 1234,
+    "bid":[{
+      "nurl":"http:\/\/reports.demo.com\/fb?b=JdZQFdbCARgKMURHWGhvUVl0bSMBJeAhAA&amp;c=MTo6&amp;wp=${AUCTION_PRICE}",
+      "burl":"http:\/\/reports.ubimo.com\/burl?K=JdZQFdbCARgKMURHWGhvUVl0bSMBJeAhAA&amp;c=MTo6&amp;wp=${AUCTION_PRICE}",
+      "crid":"12345",
+      "adomain":["example.com"],
+      "price":5.5,
+      "id":"1FGYhoQYtm",
+      "adm": "&lt;ad xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:noNamespaceSchemaLocation=\"smaato_ad_v0.9.xsd\" modelVersion=\"0.9\">&lt;imageAd>&lt;imgUrl>https://simage.png&lt;/imgUrl>&lt;clickUrl>http://click&lt;/clickUrl>&lt;width>320&lt;/width>&lt;height>50&lt;/height>&lt;/imageAd>&lt;/ad>",
+      "impid":"1",
+      "cid":1234,
+      "crid":1234
+    }]
+  }],
+  "id":"1FGYhoQYtm",
+  "bidid":"76fd96e67525bcfbe7ffe930e78079a1"
 }
